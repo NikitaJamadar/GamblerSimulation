@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Blabz\\RFP\\GamblerSimulation\\GamblerSimulation\\GamblerSimulator.csproj",
-      "projectName": "GamblerSimulator",
-      "projectPath": "D:\\Blabz\\RFP\\GamblerSimulation\\GamblerSimulation\\GamblerSimulator.csproj",
+      "projectUniqueName": "D:\\Blabz\\RFP\\GamblerSimulation\\GamblerSimulation\\GamblerSimulation.csproj",
+      "projectName": "GamblerSimulation",
+      "projectPath": "D:\\Blabz\\RFP\\GamblerSimulation\\GamblerSimulation\\GamblerSimulation.csproj",
       "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
       "outputPath": "D:\\Blabz\\RFP\\GamblerSimulation\\GamblerSimulation\\obj\\",
       "projectStyle": "PackageReference",
